@@ -102,7 +102,11 @@
 	{
 		font-weight: 700;
 	}
-	
+	/*custom code by pieterjd*/
+	h2.no-bold, h3.no-bold, h4.no-bold, h5.no-bold, h6.no-bold
+	{
+		font-weight: normal;
+	}
 	h1
 	{
 		font-weight: 300;
