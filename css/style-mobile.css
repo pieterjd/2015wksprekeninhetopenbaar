@@ -55,7 +55,12 @@
 	{
 		margin: 1.5em 0 2em 0;
 	}
-
+	/*custom code by pieterjd*/
+	.banner{
+		padding-top: 1em;
+		width: auto;
+		margin-top: 3em;
+	}
 	/* Section/Article */
 	
 		section,
