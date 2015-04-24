@@ -61,7 +61,12 @@
 		width: auto;
 		margin-top: 3em;
 	}
-	.form-container { 		
+	.form-container {
+		position: relative; 
+		padding-bottom: 56.25%; 
+		height: 0; 
+		overflow: hidden; 
+		max-width: 100%; 
 		height: 132em; 
 	}
 	/* Section/Article */

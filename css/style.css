@@ -125,7 +125,7 @@
 	.form-container { 
 		position: relative; 
 		padding-bottom: 56.25%; 
-		height: 0; 
+		height: 100em; 
 		overflow: hidden; 
 		max-width: 100%; 
 	} 
